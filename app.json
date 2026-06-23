@@ -20,7 +20,7 @@
       },
       "edgeToEdgeEnabled": true,
       "predictiveBackGestureEnabled": false,
-      "package": "com.hanamanth.playxomobile"
+      "package": "com.northkeysolutions.playxomobile"
     },
     "web": {
       "output": "static",
